@@ -1,8 +1,8 @@
 # Jogo-da-velha-com-Python
-<<<<<<< HEAD
+
 Criação de um jogo (jogo da velha/tic tac toe) em python. Este projeto foi feito utilizando a biblioteca PySide6 e QtDesigner.
 
-=======
+
 Criação de um jogo (jogo da velha/tic tac toe) em python. Este projeto foi feito utilizando a biblioteca PySide6
 
 
